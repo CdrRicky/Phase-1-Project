@@ -1,10 +1,14 @@
 # Phase-1-Project
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Travel site}
+#### {The site includes places and activities tourist can partake as they enjoy their vacation}, {Thur, June 23, 2022}
+#### By **{Eric Kiogora Muthuri}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The  website is useful for travellers/ tourist who want to travel to foreign countries either on vacation, team building, busines with a dash of pleasure and do not have alot of time to do research. Just by going through the site they are able to find interesting places near them and are able to vist and contribute by leaving comment about their experiences.
+The site also connects people to hotels around their places of interest to make the experience as fun as possible hassle free.
+
+
 ## Setup/Installation Requirements
+
 * Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
 * to list setup instructions
 * in a simple
