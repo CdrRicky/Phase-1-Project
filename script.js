@@ -93,5 +93,11 @@ fetch(url)
                           },
                       },
                   });
-                  
+                  var swiper = new Swiper(".brand-slider", {
+                    spaceBetween: 20,
+                    loop:true,
+                    autoplay: {
+                        delay: 2500,
+                        disableOnInteraction: false,
+                    },           
                                                
