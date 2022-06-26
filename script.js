@@ -47,7 +47,19 @@ fetch(url)
                       menu.classList.toggle('fa-times');
                       navbar.classList.toggle('active');
                   });
-                  
+                  searchBtn.addEventListener('click', () =>{
+                    searchBtn.classList.toggle('fa-times');
+                    searchBar.classList.toggle('active');
+                });
+                
+                
+                formBtn.addEventListener('click', () =>{
+                    loginForm.classList.add('active');
+                });
+                formClose.addEventListener('click', () =>{
+                  loginForm.classList.remove('active');
+              });
+              
                     
                     
                   
