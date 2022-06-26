@@ -641,8 +641,6 @@ header .search-bar-container label:hover{
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
   }
 
-
-
   header .navbar a{
     display: block;
     border-radius: .5rem;
@@ -650,9 +648,25 @@ header .search-bar-container label:hover{
     margin:1.5rem 0;    
     background:#222;
   }
-  
-}
 
+}
+@media (max-width:450px){
+
+
+
+  html{
+    font-size: 50%;
+  }
+
+  .heading span{
+    font-size: 2.5rem;
+  }
+
+  .contact .row form .inputBox input{
+    width:100%;
+  }
+} 
+              
 
 
   
