@@ -629,6 +629,15 @@ header .search-bar-container label:hover{
   #menu-bar{
     display: initial;
   }
+  header .navbar{
+    position: absolute;
+    top:100%; right:0; left: 0;
+    background: #333;
+    border-top: .1rem solid rgba(255,255,255,.2);
+    padding:1rem 2rem;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  }
+
 
 
   
