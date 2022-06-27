@@ -6,15 +6,9 @@
 The  website is useful for travellers/ tourist who want to travel to foreign countries either on vacation, team building, busines with a dash of pleasure and do not have alot of time to do research. Just by going through the site they are able to find interesting places near them and are able to vist and contribute by leaving comment about their experiences.
 The site also connects people to hotels around their places of interest to make the experience as fun as possible hassle free.
 
-## Setup/Installation Requirements
-
-* Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Live link
+
+https://cdrricky.github.io/Phase-1-Project/
 
 ## Known Bugs
 {If this this site acts on you do not fear, we're still working on fixes here and there.}
