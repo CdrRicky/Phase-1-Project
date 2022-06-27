@@ -15,6 +15,7 @@ The site also connects people to hotels around their places of interest to make 
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Live link
+
 ## Known Bugs
 {If this this site acts on you do not fear, we're still working on fixes here and there.}
 ## Technologies Used
