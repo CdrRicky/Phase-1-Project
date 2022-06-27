@@ -16,12 +16,19 @@ The site also connects people to hotels around their places of interest to make 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Live link
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{If this this site acts on you do not fear, we're still working on fixes here and there.}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{This site has just a page. It has the home, packages and services, search and login.
+It is an HTML, CSS and JavaScript project that communicates with a public API which stores users.
+Html - is used to structure the pages.
+CSS - is used to style the sheets.
+Javascript - is used for the functionality of the site.
+It is user friendly and it is easy to navigate arround while on it. It works well with all the pages functioning.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{This project is owned by Eric Kiogora, A software engineer and a student at Moringa school. For inquiries mail me:
+eric.kiogora12@gmail.com }
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction.
